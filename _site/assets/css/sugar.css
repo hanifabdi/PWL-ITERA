@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?familiy=Montserrat|Merriweather:400,600&display=swap');
+nav ul{
+    display: flex;
+    list-style: none;
+    border-bottom: 1px solid #eee;
+    padding: 1rem;
+    box-shadow: 13px 12px 23px #eee;
+    background-color: #333;
+    border-radius: 10px;
+}
+
+nav li{
+    flex: 1;
+}
+nav li a{
+    font-family: 'Montserrat';
+    text-decoration: none;
+    color: #eee;
+}
+
+section{
+    margin-left: 5%;
+    word-break: break-word;
+    padding-top: 0;
+}
+section h1{
+    font-family: 'Montserrat';
+    font-size: 32px;
+}
+section h3{
+    font-family: 'Merriweather';
+}
+section p{
+    font-family: 'Merriweather';
+}
+
+.profile{
+    background-color: #eaeaea;
+    width: 20%;
+    height: auto;
+    font-family:'Montserrat';
+    color: black;
+}
+
+.container{
+    display: flex;
+    width: 30%;
+    height: auto;       
+    background-color:#eee;
+    justify-content: center;
+ }
+ .container > div {
+    text-align: center;
+    padding: 10px 20px;
+ }
+ li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+  div.polaroid > img {
+    width: 30%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    align-items: center;
+  }
+  
+  h2 {
+      text-align: center;
+  }

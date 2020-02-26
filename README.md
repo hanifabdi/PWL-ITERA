@@ -30,6 +30,7 @@ ubah ke
 |Nur Ali Majid	| 14115015 | https://github.com/majidilkhithar/14115015-PWL |
 |RaviPrayoga    | 14116081 | https://github.com/raviprayoga/14116081-PWL |
 |Nurma Yunita Sari | 14117085 | https://github.com/nrmynitasr/PWL |
+|Aan Sanova | 14116175 | https://github.com/Papzaan/PWL-ITERA |
 |\<namalu>|\<nimlu>|\<linkgitlu>|
 
 ### Lanjutin
