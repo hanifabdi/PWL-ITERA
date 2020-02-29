@@ -54,6 +54,7 @@ ubah ke
 |Abbi Kurnia R.K. | 14117160 | https://github.com/remnantmemoir/14117160-PWLTugas1 |
 |M. Anas Nasrulloh | 14117028 | https://github.com/AnasNasrull/14117028-PWL |
 |Aan Sanova | 14116175 | https://github.com/Papzaan/Praktikum1 |
+|Hanif Abdillah | 14116143 | https://github.com/hanifabdi/Praktikum-PWL |
 
 |\<namalu>|\<nimlu>|\<linkgitlu>|
 
